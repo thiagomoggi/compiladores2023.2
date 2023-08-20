@@ -1,0 +1,7 @@
+programa
+
+declara numero e;
+e = 1;
+escreva(e);
+
+fimprog;
